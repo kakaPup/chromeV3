@@ -1,0 +1,1 @@
+console.log("我是inject1.js，我被注入到了目标网站");

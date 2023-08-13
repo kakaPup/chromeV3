@@ -19,6 +19,12 @@
             ]
         }
     ],
+    "web_accessible_resources": [{
+        "resources":[
+          "/inject/inject1.js"
+        ],
+        "matches": ["<all_urls>"]
+      }],
     "options_page": "options.html",
     "devtools_page": "devtools.html"
 }
